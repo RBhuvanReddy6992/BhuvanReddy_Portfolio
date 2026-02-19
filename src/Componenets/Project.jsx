@@ -7,7 +7,7 @@ function Projects() {
 description:
   "A full-stack Library Management System built using Spring Boot, enabling efficient management of books, users, and transactions. Features include RESTful APIs, CRUD operations, role-based access, and MySQL database integration.",
 tech: "Java, Spring Boot, Spring Data JPA, MySQL,SpringSecurity, RESTful APIs,JavaScript, HTML, CSS,React",
-github: "https://github.com/yourusername/library-management-system"
+github: "https://github.com/RBhuvanReddy6992/LibrarySystem"
 
     },
     {
@@ -15,21 +15,15 @@ github: "https://github.com/yourusername/library-management-system"
       description:
         "Backend-focused Java application simulating real ATM operations such as authentication, balance inquiry, deposits, and withdrawals with proper validation and business logic.",
       tech: "Core Java,Oops,SpringBoot,MySQL,Spring Data JPA,Spring Security,RESTful APIs",
-      github: "https://github.com/yourusername/atm-simulator"
+      github: "https://github.com/RBhuvanReddy6992/ATMSimulation"
     },
-    {
-      title: "Online Voting System",
-      description:
-        "Secure Java-based voting system with database integration, enabling voter authentication, vote management, and result processing.",
-      tech: "Java,J2EE, JDBC, MySQL",
-      github: "https://github.com/yourusername/online-voting"
-    },
+    
     {
       title: "Personal Portfolio Website",
       description:
         "A modern React portfolio showcasing projects, skills, and certifications with a clean UI and responsive design.",
       tech: "React, JavaScript",
-      github: "https://github.com/yourusername/portfolio"
+      github: "https://github.com/RBhuvanReddy6992/portfolio"
     }
   ];
 

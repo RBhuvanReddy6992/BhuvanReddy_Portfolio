@@ -12,7 +12,7 @@ import vscodeImg from "./skills/vscode.png";
 import mysqlImg from "./skills/Mysql.png";
 import eclipseImg from "./skills/Eclipse.png";
 
-// Skill data
+
 const skillData = {
   Languages: [
     { name: "HTML", img: htmlImg },
@@ -23,6 +23,7 @@ const skillData = {
   Frameworks: [
     { name: "React", img: reactImg },
     { name: "Bootstrap", img: bootstrapImg },
+    { name: "Spring Boot", img: springImg },
     { name: "Hibernate", img: hibernateImg },
     { name: "Spring Security", img: springImg },
   ],
