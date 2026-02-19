@@ -7,7 +7,7 @@ function Hero() {
         <h1 style={{ fontSize: "3rem" }}>Hi, I’m Ranabothu Bhuvan Reddy</h1>
 
         <h2 style={{ color: "#38bdf8", margin: "10px 0" }}>
-          Aspiring Java Developer | Front-End Enthusiast
+          Aspiring Java Developer 
         </h2>
 
         <p style={{ maxWidth: "500px", marginBottom: "20px" }}>
