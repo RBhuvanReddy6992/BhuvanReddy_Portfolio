@@ -23,7 +23,7 @@ github: "https://github.com/RBhuvanReddy6992/LibrarySystem"
       description:
         "A modern React portfolio showcasing projects, skills, and certifications with a clean UI and responsive design.",
       tech: "React, JavaScript",
-      github: "https://github.com/RBhuvanReddy6992/portfolio"
+      github: "https://github.com/RBhuvanReddy6992/BhuvanReddy_Portfolio"
     }
   ];
 
