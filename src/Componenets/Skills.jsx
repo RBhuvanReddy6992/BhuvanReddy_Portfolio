@@ -11,6 +11,7 @@ import gitImg from "./skills/Git.png";
 import vscodeImg from "./skills/vscode.png";
 import mysqlImg from "./skills/Mysql.png";
 import eclipseImg from "./skills/Eclipse.png";
+import SpringBoot from "./skills/SpringBoot.png";
 
 
 const skillData = {
@@ -23,7 +24,7 @@ const skillData = {
   Frameworks: [
     { name: "React", img: reactImg },
     { name: "Bootstrap", img: bootstrapImg },
-    { name: "Spring Boot", img: SpringBoot },
+    { name: "SpringBoot", img: SpringBoot },
     { name: "Hibernate", img: hibernateImg },
     { name: "Spring Security", img: springImg },
   ],
