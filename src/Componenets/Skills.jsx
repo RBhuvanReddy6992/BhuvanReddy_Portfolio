@@ -23,7 +23,7 @@ const skillData = {
   Frameworks: [
     { name: "React", img: reactImg },
     { name: "Bootstrap", img: bootstrapImg },
-    { name: "Spring Boot", img: springImg },
+    { name: "Spring Boot", img: SpringBoot },
     { name: "Hibernate", img: hibernateImg },
     { name: "Spring Security", img: springImg },
   ],

@@ -32,7 +32,7 @@ function About() {
 
         <div style={styles.certGrid}>
           <div style={styles.certCard}>
-            <h4>Full Stack Web Development</h4>
+            <h4>Java Full Stack</h4>
             <p>Vcube Software Solutions</p>
           </div>
 
